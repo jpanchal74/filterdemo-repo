@@ -1,3 +1,3 @@
-# Filer Demo
+# Filter Demo
 
 Description: TBD
